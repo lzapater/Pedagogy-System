@@ -1,0 +1,23 @@
+[
+  {
+    "Profesor": "Juan Perez",
+    "Curso": "Programación",
+    "Modulo": "React",
+    "Fecha Inicio": "01/01/2020",
+    "Fecha Fin": "01/03/2020\n"
+  },
+  {
+    "Profesor": "Jose Gonzales",
+    "Curso": "Humanidades",
+    "Modulo": "Filosofia",
+    "Fecha Inicio": "01/08/2021",
+    "Fecha Fin": "01/12/2021\n"
+  },
+  {
+    "Profesor": "Luis Sanchez",
+    "Curso": "Musica",
+    "Modulo": "Musica clasica",
+    "Fecha Inicio": "01/04/2021",
+    "Fecha Fin": "01/05/2021\n"
+  }    
+]
