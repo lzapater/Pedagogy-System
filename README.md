@@ -6,7 +6,3 @@ Ejecutar el comando
 
 Abrir [http://localhost:3000](http://localhost:3000) para verlo en el buscador.
 
-### `yarn build`
-
-Construye el proyecto
-
